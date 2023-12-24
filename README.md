@@ -1,3 +1,3 @@
 # CartoonWebsite
-This is my first website
-Its very amazing website made by me
+This is my first website.
+Its very amazing website made by me.
